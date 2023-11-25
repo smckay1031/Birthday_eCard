@@ -1,3 +1,5 @@
-# smckay1031.github.io
-Greeting Web Page... Just for fun!
+# smckay1031.github.io/Birthday_eCard/
+
+Just a fun birthday eCard for Alana's 31st birthday
+
 
